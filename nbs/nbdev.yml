@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://tripathysagar.github.io/nbdev_cards"
+  description: "first"
+  repo-branch: main
+  repo-url: "https://github.com/tripathysagar/nbdev_cards"
